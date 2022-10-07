@@ -1,8 +1,20 @@
-# Project: CS Professor Home Page
+# Project: Layout for CS Professor Home Page
+
+<aside>
+
+**👥 This is a team project.**
+
+Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
+
+If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.
+
+You can work together by sharing your screen and reading each other's code on GitHub. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
+
+</aside>
 
 ## Introduction
 
-This task is levelling up your CS Professor page, let's break the habit of poorly styled pages and do something different. This is your time to let your creativity shine, be experimental and ultimately find what speaks to your CS Professor personality.
+In this project, you'll be creating a layout for your CS Professor's page. Now that you've added some CSS 
 
 ## Your Task
 
