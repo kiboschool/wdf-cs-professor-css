@@ -2,72 +2,56 @@
 
 ## Introduction
 
-Computer Science professors are notorious for having plain-looking HTML websites that are unstyled, or styled poorly.
-
-Here’s a sample of websites from Harvard’s CS department:
-
-- http://www.eecs.harvard.edu/~dbrooks/
-- https://www.read.seas.harvard.edu/~kohler/
-- http://www.eecs.harvard.edu/~michaelm/
-- http://madhu.seas.harvard.edu/
-- http://people.seas.harvard.edu/~valiant/
-
-Here's a screenshot of a typical website, in case you don't want to browse to those pages:
-
-![Leslie Valiant home page](valiant.png)
-
-After this week's lessons, you know all the HTML you need to  make your own website as good as these best-in-the-world professors! You'll practice using the basic elements you've learned, be creative, and work together.
+This task is levelling up your CS Professor page, let's break the habit of poorly styled pages and do something different. This is your time to let your creativity shine, be experimental and ultimately find what speaks to your CS Professor personality.
 
 ## Your Task
 
-For this project, you’re going to build your own website, "CS Professor" style. Of course, you aren’t actually a CS professor! You’ll have to be inventive and make up:
-
-* your institution
-* your position on the faculty
-* your recent publications
-* the courses you’ve taught
-* Phd students you’ve supervised
+For this project, you're deviating from the CS Professor style to make it yours. You'll need to use the CSS you've learned this week to take your page to the next level.
 
 ### Disclaimer
 
-Since it's a fake page, we've added a disclaimer to the top of the page letting folks know that it's not real. **Leave the disclaimer and its styles alone at the top of the page**, so that no one thinks we're trying to fool them.
+Just like before, since it's a fake page, we've added a disclaimer to the top of the page letting folks know that it's not real. **Leave the disclaimer and its styles alone at the top of the page**, so that no one thinks we're trying to fool them.
 
 ## Instructions
 
 **Before you get started**
 
-Prepare what you'll need to build the site. Write down all of the facts and info you'll put on the website. You can use the file `site-plan.md` to take notes, or write things somewhere else.
+Prepare what you'll need to build the site. Write down all of the facts and info you'll put on the website. You can use the file `site-plan.md` to take notes, or write things somewhere else. Your site plan will be a good place to plan your theme.
 
-You'll need:
-* An old, fuzzy, or silly photo of you
-* The name of the fake institution where you're a fake professor
-* Contact info, but with your email address written out like "name AT institution DOT edu"
-* A list of fake publications
-* A fake bio or background
-* Links to other pages
+You'll be editing both the `index.html` and `style.css` files, so make sure you're adding the correct code in the correct file.
 
-**Building the site**
+Using the lessons from this week, make sure your CS Professor page meets the standard for web pages, use the rubric below to make sure you meet the requirements. As mentioned before, you can be creative but more importantly your site needs to be legible, visitors are your first priority.
 
-Once you have all the materials, you should start building the site in HTML. Decide on the appropriate HTML elements for each of the pieces of information you're adding to the site. Lists should use list elements, emphasized text should use emphasis elements, and paragraphs should use paragraph elements!
+Draw inspiration from your favorite websites, you can use this list as a starting point:
+- https://www.sarasoueidan.com/
+- https://lolaodelola.dev
+- https://jensimmons.com/
+- https://slim.computer/
+- https://www.swyx.io/
+- https://safiyaunoble.com/bio-cv/
+- https://jacky.wtf/about
+- https://www.tatianamac.com/about
+- http://deniseyu.io/
+- https://andymatuschak.org/ (this one is a little complex)
 
-After you've added all the Elements to your site, check that the style is similar to the CS Professor sites linked.
-
-Check your work against the rubric below, and then click Submit!
+Notice how not all of these sites use white/off-white backgrounds and not all of them use dark grey text, they also all use different visual techniques to draw attention to important text. In this exercise try not to default to the standard and if you do, put your spin on it.
 
 ## Rubric
 
 Use this checklist to confirm that you've included everything you need:
 
-- [ ] Uses at least 2 heading elements (like h1 or h4)
-- [ ] Uses at least one paragraph element
-- [ ] Uses an image element
-- [ ] Uses the list and list item elements
-- [ ] Includes links to other pages
+### Typography
+- [ ] Choose a heading font with fallbacks
+- [ ] Choose a paragraph font with fallbacks
+- [ ] Set the line width within the appropriate range
+- [ ] Set the font size within the appropriate range
+- [ ] Make sure the heading font sizes are appropriate for headings
+- [ ] Set the line height within the appropriate range
+
+### Colour
+- [ ] Specify a font colour
+- [ ] Specify a background colour
+- [ ] Include at least 2 other colours for different elements (& element states)
+- [ ] Make sure your text and background colours meet the contrast requirements, you can check here: https://colourcontrast.cc/
+
 - [ ] Still has the Disclaimer at the top of the page
-
-## Bonus: Other ideas
-
-If you have submitted the project and you have more time, you can be creative and add more things to your page. Here are just a few ideas:
-
-* Create a fake CV or bio
-* Link to some other faculty pages, or to an institution's home page
