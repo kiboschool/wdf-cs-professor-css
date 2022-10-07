@@ -39,12 +39,9 @@ Draw inspiration from your favourite websites, you can use this list as a starti
 - https://www.sarasoueidan.com/
 - https://lolaodelola.dev
 - https://jensimmons.com/
-- https://slim.computer/
 - https://www.swyx.io/
 - https://safiyaunoble.com/bio-cv/
-- https://jacky.wtf/about
 - https://www.tatianamac.com/about
-- http://deniseyu.io/
 - https://andymatuschak.org/ (this one is a little complex)
 
 ## Rubric
