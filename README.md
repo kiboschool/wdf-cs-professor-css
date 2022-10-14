@@ -1,4 +1,4 @@
-# Project: JavaScript for CS Professor Home Page
+# Project: JavaScript for your profile page
 
 <aside>
 
@@ -14,7 +14,7 @@ You can work together by sharing your screen and reading each other's code on Gi
 
 ## Introduction
 
-In this project, you'll be adding JavaScript to your CS Professor page to make it interactive. You're going to implement a toggle, so that when a visitor clicks on one of your headings, the paragraph text is displayed.
+In this project, you'll be adding JavaScript to your profile page to make it interactive. You're going to implement a toggle, so that when a visitor clicks on one of your headings, the paragraph text is displayed.
 
 This is an example
 ![toggle example](kibo-js-toggle-demo_large.gif)
